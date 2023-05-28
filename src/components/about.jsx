@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button, Popup } from 'semantic-ui-react';
 
-export default function About() {
+export default function about() {
   return (
     <div>
       <Popup
