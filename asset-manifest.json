@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-workshop/static/css/main.f297eaa5.css",
-    "main.js": "/react-workshop/static/js/main.6d648181.js",
+    "main.css": "/react-workshop/static/css/main.0466e4db.css",
+    "main.js": "/react-workshop/static/js/main.b5b6fe40.js",
     "static/js/787.636be25e.chunk.js": "/react-workshop/static/js/787.636be25e.chunk.js",
     "static/media/brand-icons.svg": "/react-workshop/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/react-workshop/static/media/icons.62d9dae4e0040e81c980.svg",
@@ -20,12 +20,12 @@
     "static/media/outline-icons.woff": "/react-workshop/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
     "static/media/outline-icons.woff2": "/react-workshop/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/react-workshop/index.html",
-    "main.f297eaa5.css.map": "/react-workshop/static/css/main.f297eaa5.css.map",
-    "main.6d648181.js.map": "/react-workshop/static/js/main.6d648181.js.map",
+    "main.0466e4db.css.map": "/react-workshop/static/css/main.0466e4db.css.map",
+    "main.b5b6fe40.js.map": "/react-workshop/static/js/main.b5b6fe40.js.map",
     "787.636be25e.chunk.js.map": "/react-workshop/static/js/787.636be25e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f297eaa5.css",
-    "static/js/main.6d648181.js"
+    "static/css/main.0466e4db.css",
+    "static/js/main.b5b6fe40.js"
   ]
 }
